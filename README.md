@@ -37,7 +37,7 @@
 		</section>
 		<section>
 			<h2>My Photo</h2>
-			<img src=""C:\Users\fathi\OneDrive\Pictures\pathu sharaf\pics\photo_1_2023-01-09_22-59-56.jpg"" alt="My Photo">
+			<img src="C:\Users\fathi\OneDrive\Pictures\pathu sharaf\pics\photo_1_2023-01-09_22-59-56.jpg" alt="My Photo">
 		</section>
 	</main>
 	<footer>
